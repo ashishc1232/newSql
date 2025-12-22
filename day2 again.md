@@ -276,7 +276,7 @@ DROP TABLE students;
 
 ---
 
-# 📌 IMPORTANT DAY 2 TAKEAWAYS
+#  IMPORTANT DAY 2 TAKEAWAYS
 
 * `WHERE` is **mandatory** for UPDATE & DELETE
 * `TRUNCATE` removes data, keeps structure
